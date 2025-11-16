@@ -1,0 +1,2 @@
+Gender,Age (years),Occupation,Quality of Sleep (1–10),Stress Level (1–10),Physical Activity Level (minutes/day),BMI Category,Heart Rate (bpm),Daily Steps,Sleep Disorder,Systolic BP (mmHg),Diastolic BP (mmHg),Prediction,timestamp
+Female,30,Lawyer,4,5,35,Normal,70,7000,None,120,80,Predicted Sleep Duration: 6.79 hours,2025-11-17 02:05:17.321391
