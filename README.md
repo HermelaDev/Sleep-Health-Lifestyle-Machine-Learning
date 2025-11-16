@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ai-generated-8517712_960_720.jpg" alt="Sleep Health ML Banner" width="500" style="border-radius:10px;">
+</p>
+
 # 📘 Sleep Health & Lifestyle - Machine Learning Analysis
 
 This project investigates how lifestyle behaviors, health indicators, and daily habits affect **sleep duration** using modern machine learning techniques.  
